@@ -15,7 +15,7 @@ Dengan kunci “TEKNIK INFORMATIKA”
 
 ## Output
 
-Enter key : TEKNIK INFORMATIKA
+``` Enter key : TEKNIK INFORMATIKA
 
  Choose what you want :  
  1.Encryption 
@@ -46,4 +46,4 @@ AZ IN OR RC MI GB IO VF CU MR LV NO QY <br>
  2. Decryption
  3. EXIT
 3 <br>
-PS A:\Oktovan Agung Shailendra\Documents\TES CODE\Kriptografi> <br>
+PS A:\Oktovan Agung Shailendra\Documents\TES CODE\Kriptografi> <br> ```
