@@ -46,4 +46,4 @@ AZ IN OR RC MI GB IO VF CU MR LV NO QY
  2. Decryption
  3. EXIT
 3
-PS A:\Oktovan Agung Shailendra\Documents\TES CODE\Kriptografi> ```
+PS A:\Oktovan Agung Shailendra\Documents\TES CODE\Kriptografi>
